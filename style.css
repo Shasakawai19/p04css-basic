@@ -1,0 +1,27 @@
+body{
+	background-color: #000000;
+}
+.wrap{
+	width: 40%;
+	margin: auto;
+	color: white;
+	border-radius: 10px;
+	font-family: comic sans ms;
+	background.color: #000000;
+}
+.container{
+	padding: 5px;
+}
+table{
+	margin: auto;
+}
+table td{
+	padding: 5px;
+}
+button{
+	width: 50px;
+	font-family: comic sans ms;
+	height: 30px;
+	background-color: #00CED1;
+	background-radius: 7px; 
+}
